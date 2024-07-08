@@ -1,0 +1,20 @@
+[
+  {
+    "package": "cards",
+    "url": "https://github.com/insightsengineering/cards",
+    "via": ["pubh", "gtsummary"],
+    "from": "pubh"
+  },
+  {
+    "package": "cardx",
+    "url": "https://github.com/insightsengineering/cardx",
+    "via": ["pubh", "gtsummary"],
+    "from": "pubh"
+  },
+  {
+    "package": "gtsummary",
+    "url": "https://github.com/ddsjoberg/gtsummary",
+    "via": ["pubh"],
+    "from": "pubh"
+  }
+]
